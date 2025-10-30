@@ -23,8 +23,14 @@ The application:
 
 Digital-Image-Tampering-Detection/
 │
+
+
 ├── main.ipynb     # Jupyter Notebook containing full pipeline
+
+
 ├── README.md                       # Project documentation
+
+
 └── requirements.txt                # Python dependencies
 
 
